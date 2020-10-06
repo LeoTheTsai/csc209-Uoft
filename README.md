@@ -1,1 +1,1 @@
-# csc209-Uoft
+# csc209-University of Toronto
